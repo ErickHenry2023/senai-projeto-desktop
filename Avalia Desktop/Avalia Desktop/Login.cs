@@ -81,20 +81,35 @@ namespace Avalia_Desktop
 
         private void sair_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+
+            if (MessageBox.Show("Vc deseja fechar a janela atual?", "Confirmação",
+                MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                
+                this.Close();
+            }
+
+
+
+            //Application.Exit();
         }
 
+        
         private void button1_Click_1(object sender, EventArgs e)
         {
             //Validar usuario
             if (tb_usuario.Text=="Erick" && tb_senha.Text == "1234")
             {
                 MessageBox.Show("Seja bem vindo, Erick");
+                new Teladm().ShowDialog();
             }
             else
             {
                 MessageBox.Show("Login ou Senha invalida!");
+
             }
+
+            
         }
 
         private void tb_senha_TextChanged(object sender, EventArgs e)

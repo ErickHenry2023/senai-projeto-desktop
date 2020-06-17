@@ -17,3 +17,5 @@ C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj
 C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.exe
 C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.pdb
 C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Cadastro.resources
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Teladm.resources
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Telausu.resources

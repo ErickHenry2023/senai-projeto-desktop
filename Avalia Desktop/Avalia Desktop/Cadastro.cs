@@ -53,6 +53,15 @@ namespace Avalia_Desktop
                 return;
             }
 
+
+            if (tb_sobrenome.Text == "")
+            {
+                MessageBox.Show("Digite um sobrenome");
+                tb_sobrenome.Focus();
+                return;
+            }
+
+
             if (tb_endereco.Text == "")
             {
                 MessageBox.Show("Digite um endereco");
@@ -60,11 +69,17 @@ namespace Avalia_Desktop
                 return;
             }
 
+            if (tb_n.Text == "")
+            {
+                MessageBox.Show("Digite um numero");
+                tb_n.Focus();
+                return;
+            }
 
-            if (tb_usuario.Text == "")
+            if (tb_us.Text == "")
             {
                 MessageBox.Show("Digite um usuario");
-                tb_usuario.Focus();
+                tb_us.Focus();
                 return;
             }
 
@@ -83,7 +98,7 @@ namespace Avalia_Desktop
                 return;
             }
 
-
+            new Telausu().ShowDialog();
         }
 
         private void tb_confirmarsenha_TextChanged(object sender, EventArgs e)
@@ -115,6 +130,16 @@ namespace Avalia_Desktop
             {
                 MessageBox.Show("Cadastro de um novo administrador");
             }
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_endereco_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
