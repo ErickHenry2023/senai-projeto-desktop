@@ -1,0 +1,19 @@
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\bin\Debug\Avalia Desktop.exe.config
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\bin\Debug\Avalia Desktop.exe
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\bin\Debug\Avalia Desktop.pdb
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.csprojAssemblyReference.cache
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Properties.Resources.resources
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.csproj.GenerateResource.cache
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.exe
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.pdb
+C:\Users\erick.h.apaza.conde\source\repos\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Login.resources
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\bin\Debug\Avalia Desktop.exe.config
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\bin\Debug\Avalia Desktop.exe
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\bin\Debug\Avalia Desktop.pdb
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.csprojAssemblyReference.cache
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Login.resources
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Properties.Resources.resources
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.csproj.GenerateResource.cache
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.exe
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia Desktop.pdb
+C:\Users\erick.h.apaza.conde\Desktop\Avaliacao\Avalia Desktop\Avalia Desktop\obj\Debug\Avalia_Desktop.Cadastro.resources
